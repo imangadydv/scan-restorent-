@@ -26,7 +26,8 @@ export default function RootLayout({
           <main className="pt-16"> {/* Add padding-top to prevent content from hiding under fixed navbar */}
             {children}
           </main>
-                  <AppProvider>
+  <Footer />
+        </AppProvider>
       </body>
     </html>
   );
