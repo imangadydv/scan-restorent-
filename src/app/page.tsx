@@ -12,6 +12,7 @@ import {
 import Feature from '@/components/Feature';
 import HowItWorksSection from '@/components/HowItWorksSection';
 import TestimonialsSection from '@/components/TestimonialsSection';
+import Footer from "@/componants/Footer";
 
 
 
@@ -195,6 +196,7 @@ export default function Home() {
       < HowItWorksSection />
       < Feature /> 
       <TestimonialsSection />
+      <Footer/>
       
     </div>
   );
