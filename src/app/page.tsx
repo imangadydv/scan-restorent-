@@ -12,7 +12,7 @@ import {
 import Feature from '@/components/Feature';
 import HowItWorksSection from '@/components/HowItWorksSection';
 import TestimonialsSection from '@/components/TestimonialsSection';
-import Footer from "@/components/Footer";
+import Footer from '@/components/Footer';
 
 
 
